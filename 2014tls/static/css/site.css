@@ -1,6 +1,7 @@
-body {
-  padding-top: 60px;
+.navbar .navbar-inner {
+  border-radius: 0;
 }
+
 h1 {
   padding-top: 20px;
 }
