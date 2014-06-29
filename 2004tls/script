@@ -1,0 +1,2 @@
+for i in denis@mail/utexas.edu
+denis@mail/utexas.edu; do mailx -s conf prog  < program.txt
