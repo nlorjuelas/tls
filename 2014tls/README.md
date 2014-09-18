@@ -4,6 +4,8 @@ For now, the server does not mirror this git repository, so deployments are made
 
     rsync -r ./ tls@uts.cc.utexas.edu:public_html/2014tls/
 
+You might need to use `/usr/bin/rsync` explicitly, if your rsync is too new.
+
 
 ## Github Pages
 
