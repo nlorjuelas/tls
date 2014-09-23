@@ -78,3 +78,28 @@ footer {
   border-top: 1px dotted #BFB8AF;
   margin-top: 40px;
 }
+
+.table-bordered {
+  border-collapse: collapse;
+}
+.table tbody tr:hover td, .table tbody tr:hover th {
+  /*background-color: inherit;*/
+}
+.time {
+  white-space: nowrap;
+}
+.keynote {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+#program td {
+  text-align: center;
+}
+#program td a {
+  display: block;
+}
+
+.valign, .valign i, .valign span {
+  vertical-align: middle;
+}
