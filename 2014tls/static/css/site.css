@@ -89,11 +89,6 @@ footer {
 #program td a {
   display: block;
 }
-
-.valign, .valign i, .valign span {
-  vertical-align: middle;
-}
-
 #program a {
   text-decoration: underline;
 }
