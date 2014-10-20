@@ -1,0 +1,28 @@
+A smoking gun without a trigger? The curious case of the factive presupposition
+
+David Beaver
+Department of Linguistics
+UT Austin
+
+(Joint work with Judith Tonhauser, Mandy Simons, Craige Roberts, and Marie-Catherine de Marneffe)
+
+Since the groundbreaking work of Paul and Carol Kiparsky (1970), a range of constructions involving predicates that take propositional complements have been identified as presupposition triggers. The smoking gun indicating presuppositionality is evidence involving ‘projectivity' of the inference that the complement is true, which survives even when the predicate is embedded under negation, as in (1a,b).
+
+1a) Mary knows that it’s raining ==> It’s raining.
+1b) Mary doesn’t know that it’s raining ==> It’s raining.
+
+We term this a 'factive inference'. Predicates which are standardly taken to trigger factive inferences include a range of cognitive and emotive attitude verbs and nouns such as “know”, “discover”, “regret”, "knowledge (that)”, and “fact (that)”, but also evaluative adjectives such as “happy”, “smart”, and “foolish” in (2):
+
+2) Mary was smart/happy/foolish to leave ==> Mary left.
+
+We will present a range of data showing that for various predicates factive inferences are less stable than might be expected if there was a conventionally triggered presupposition. We will focus in particular on naturally occurring and constructed data involving cognitive factive verbs, and on experimental data (extending recent work of Karttunen et al 2014) involving evaluative adjectives. These data suggest that for some predicates factive inferences emerge not through conventionalized triggering, but as a result of pragmatic reasoning. In particular, we will advocate a discourse-based model. We will suggest that the observed variability in projection behavior is to be expected if, following Simons et al (2010) and Tonhauser et al (2013), a primary factor conditioning projection is what question is under discussion.
+
+References
+
+Karttunen, L, S Peters, A Zaenen, and C Condoravdi, 2014. "The Chameleon-like Nature of Evaluative Adjectives”. Ms., under review for Empirical Issues in Syntax and Semantics 10, ed. C Piñón.
+
+Kiparsky, P and C Kiparsky, 1970. “Fact”. Progress in Linguistics, eds. M Bierwisch and K Heidolph, pp.143-173. The Hague: Mouton.
+
+Simons, M, J Tonhauser, D Beaver, and C Roberts,  2010. "What projects and why”. Proceedings of SALT 20, eds. N Li and D Lutz, pp.309-327.
+
+Tonhauser, J, D Beaver, C Roberts, C and M Simons, 2013. "Toward a taxonomy of projective content”. Language 89.1: 66-109.
