@@ -83,15 +83,18 @@ footer {
   font-weight: bold;
 }
 
-#program td {
+.day {
+  page-break-inside: avoid;
+}
+.day td {
   text-align: center;
 }
-#program td a {
+.day td a {
   display: block;
 }
-#program a {
+.day a {
   text-decoration: underline;
 }
-#program a[href=""] {
+.day a[href=""] {
   text-decoration: none;
 }

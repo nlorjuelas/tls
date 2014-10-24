@@ -144,7 +144,9 @@
       <h1>Program</h1>
       <hr>
       <p>Most presentation titles below link to the author's original abstract.</p>
+    </div>
 
+    <div id="friday" class="container day">
       <h3>Friday, October 24</h3>
       <table class="table table-bordered">
         <tbody>
@@ -176,8 +178,10 @@
           </tr>
         </tbody>
       </table>
+    </div>
 
-      <h3>Saturday, October 25</h2>
+    <div id="saturday" class="container day">
+      <h3>Saturday, October 25</h3>
       <table class="table table-bordered">
         <tbody>
           <tr class="warning">
@@ -291,7 +295,9 @@
           </tr>
         </tbody>
       </table>
+    </div>
 
+    <div id="sunday" class="container day">
       <h3>Sunday, October 26</h3>
       <table class="table table-bordered">
         <tbody>
@@ -349,7 +355,6 @@
           </tr>
         </tbody>
       </table>
-
     </div>
 
     <div id="location" class="container">
@@ -527,6 +532,13 @@
       ga('send', 'pageview');
       // I don't know who owned UA-30013208-1, but contact Chris Brown for access
       // to UA-20644777-8 stats
+    </script>
+    <script>
+    $(function() {
+      $('.day h3').on('dblclick', function(ev) {
+        $(ev.target).closest('.day').siblings().hide();
+      });
+    });
     </script>
   </body>
 </html>
