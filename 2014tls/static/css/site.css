@@ -3,7 +3,7 @@
   margin-left: 0;
 }
 .keynotes a {
-  font-size: large;
+  font-size: 110%;
   font-weight: bold;
   padding-right: 10px;
 }
@@ -17,15 +17,14 @@ td.invited {
   font-size: 120%;
 }
 td.time {
-  vertical-align:middle;
-  font-size: smaller;
+  font-size: 90%;
 }
 td.paper {
   text-align: center;
   vertical-align: middle;
 }
 td.paper > small {
-  font-size: smaller;
+  font-size: 90%;
 }
 .navbar-brand > img {
   height: 20px;
@@ -108,4 +107,14 @@ footer {
   font-weight: bold;
   font-size: 110%;
   margin-bottom: 4px;
+}
+
+@media print {
+  a[href]:after {
+    /* override the bootstrap link url printer */
+    content: none !important;
+  }
+  a, a:visited {
+    text-decoration: none !important;
+  }
 }
