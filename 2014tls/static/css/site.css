@@ -103,3 +103,9 @@ footer {
   font-size: 90%;
   font-style: italic;
 }
+
+.room {
+  font-weight: bold;
+  font-size: 110%;
+  margin-bottom: 4px;
+}
