@@ -98,3 +98,8 @@ footer {
 .day a[href=""] {
   text-decoration: none;
 }
+
+.affiliation {
+  font-size: 90%;
+  font-style: italic;
+}
