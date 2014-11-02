@@ -2,7 +2,7 @@
 
 GitHub offers some handy tools for making small changes to code (like the TLS website's pages) without having to know much about Git. To get started, you'll need a GitHub account.
 
-1. Go to [github.com](https://github.com/), make an account, and tell one of the administrators (right now, that's just me, [Chris](io@henrian.com)) what username you picked.
+1. Go to [github.com](https://github.com/), make an account, and tell one of the administrators (right now, that's just me, [Chris](mailto:io@henrian.com)) what username you picked.
   * Maybe use your name or nickname or something as part of your GitHub username? It's a lot easier to remember who `nick9_coder` might be, compared to `raptormachineX7`, for example.
 2. Using that username, I'll invite you as a writer to the [linguistics/tls](https://github.com/linguistics/tls) repository.
 
@@ -21,7 +21,7 @@ The changes will be immediately (or within a couple of minutes) viewable on [the
 
 ### Making changes carefully, first
 
-Unfortunately it's not awfully easy to preview your changes before they go live, with GitHub's online editor. If you're making small changes, you can probably envision what effect edits to the HTML will have on the webpage, but if you really want to preview your changes before committing them, you can:
+It's not awfully easy to preview your changes before they go live, unfortunately, using GitHub's online editor. If you're making small changes, you can probably envision what effect edits to the HTML will have on the webpage, but if you really want to preview your changes before committing them, you can:
 
 1. Fork the `tls` repository to your own user account (by going to the repository's [main page](https://github.com/linguistics/tls) and clicking the "Fork" button)
 2. Make the changes to that copy (fork) of the code, and commit. This won't change the upstream (main) [website](http://linguistics.github.io/tls/).
