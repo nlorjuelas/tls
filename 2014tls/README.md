@@ -13,6 +13,11 @@ The only relevant page to leave on the `uts.cc.utexas.edu` server is `redirect.h
     scp redirect.html tls@uts.cc.utexas.edu:public_html/2014tls/index.html
 
 
+## Debriefing
+
+I wrote up some general retrospective pointers about running the conference on the [advice](advice.md) page.
+
+
 ## Github Pages
 
 As we incrementally migrate the old sites to version control in this repository, they will also be served as Github Pages.
