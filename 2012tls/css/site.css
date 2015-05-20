@@ -1,0 +1,91 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+h1 {
+  padding-top: 20px;
+}
+li.keynote {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 0;
+  padding-left: 0;
+}
+big.keynote {
+  font-size: large;
+  font-weight: bold;
+}
+hr {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+td.invited {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 120%;
+}
+td.time {
+  vertical-align:middle;
+  font-size: smaller;
+}
+td.paper {
+  text-align: center;
+  vertical-align: middle;
+}
+td.paper>small {
+  font-size: smaller;
+}
+.brand>img {
+  margin: 0;
+  padding: 0;
+  height: 18px;
+  vertical-align: top;
+}
+.brand>b {
+  font-size: small;
+}
+.brand>time {
+  font-size: xx-small;
+  color: #CC5500;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+form {
+  margin-bottom: 5px;
+  margin-right: 30px;
+  float: left;
+}
+label {
+  display: block;
+  float: left;
+  text-align: right;
+  margin: 5px;
+}
+address.payment {
+  margin-left: 30px;
+}
+
+h1 {
+  color: #CC5500;
+}
+h2 {
+  color: #999999;
+  font-size: small;
+  font-weight: normal;
+}
+h3, h4, h5, h6 {
+  color: #6E6259;
+  text-transform: uppercase;
+}
+h3 {
+  font-size: smaller;
+}
+a {
+  color: #115E67;
+}
+footer {
+  background: #D6D2C4;
+  border-top: 1px dotted #BFB8AF;
+  margin-top: 40px;
+}
