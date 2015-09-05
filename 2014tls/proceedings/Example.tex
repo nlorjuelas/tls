@@ -1,10 +1,8 @@
 \documentclass{tls}
 
+% optional packages that are used in this paper
 \usepackage{qtree}
 \usepackage{gb4e}
-% \usepackage{float}
-
-\bibliographystyle{tlslike}
 
 \title{Title of your TLS paper}
 \author{Beatrice McHuggins and Harold Q. Snodgrass}
@@ -193,7 +191,7 @@ Microsoft Word users should be sure to include any special fonts used to generat
 
 \subsection{References}
 
-Please use LSA style: \texttt{name (year)} or \texttt{(Name year)}.  Formulations with author names like ``\ldots as \namecite{Ladefoged:2003} showed that \ldots'' are acceptable, but not ``as shown in [Ladefoged, 2003]'' or ``as shown in (Ladefoged~[6]).'' See Section 4 for more on references.
+Please use LSA style: \texttt{name (year)} or \texttt{(Name year)}.  Formulations with author names like ``\ldots as \citet{Ladefoged:2003} showed that \ldots'' are acceptable, but not ``as shown in [Ladefoged, 2003]'' or ``as shown in (Ladefoged~[6]).'' See Section 4 for more on references.
 
 \subsection{Hyperlinks}
 
@@ -217,13 +215,13 @@ PDF files submitted must comply with the following requirements:
 
 \section{Format of references}
 
-Monographs such as \namecite{Fant:1960} consist of author(s) last name(s), initial of the first name(s), year of publication, title in italics, location of the publication, and publisher. The names of multiple authors are separated by commas listed in the sequence last name, comma, initial(s) of the first name(s) (cf. the examples \citeboth{Beattie/etal:1982}, \citeboth{Peterson/Barney:1952}).
+Monographs such as \citet{Fant:1960} consist of author(s) last name(s), initial of the first name(s), year of publication, title in italics, location of the publication, and publisher. The names of multiple authors are separated by commas listed in the sequence last name, comma, initial(s) of the first name(s) (cf. the examples \citeboth{Beattie/etal:1982}, \citeboth{Peterson/Barney:1952}).
 
-Contributions to volumes, e.g., \namecite{Stevens:1999}, follow the convention that the title of the volume is in italics, but not the title of the contribution. Book editors should appear after the book title, followed by page numbers, place of publication, and publisher.
+Contributions to volumes, e.g., \citet{Stevens:1999}, follow the convention that the title of the volume is in italics, but not the title of the contribution. Book editors should appear after the book title, followed by page numbers, place of publication, and publisher.
 
 Journal articles should be handled in the same way as contributions to volumes, except that the title of the journal is in italics and the editors are not listed. Longer names of well-known journals can be abbreviated (e.g., \citeboth{Peterson/Barney:1952}).
 
-Articles in conference proceedings such as \namecite{Ladefoged:2003} are referenced in the same way as journal articles. The word ``proceedings'' can be abbreviated and the location should be mentioned after the name of the conference. Here, abbreviations of well-known conferences are possible.
+Articles in conference proceedings such as \citet{Ladefoged:2003} are referenced in the same way as journal articles. The word ``proceedings'' can be abbreviated and the location should be mentioned after the name of the conference. Here, abbreviations of well-known conferences are possible.
 
 \bibliography{Example}
 
