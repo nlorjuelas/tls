@@ -23,6 +23,9 @@
 \RequirePackage{url}
 
 \pagestyle{empty} % No page numbers
+% No, really (\maketitle overrides the empty style)
+\let\ps@plain\ps@empty
+\ps@empty
 
 % floats
 \setlength{\intextsep}{6pt plus 2pt minus 2pt}
