@@ -1,4 +1,4 @@
-Please visit this site at [linguistics.github.io/tls](https://linguistics.github.io/tls).
+Please visit this site at [tls.ling.utexas.edu](http://tls.ling.utexas.edu/).
 
 The TLS sites are also hosted on UT Austin servers, at [uts.cc.utexas.edu/~tls](http://uts.cc.utexas.edu/~tls).
 

@@ -16,7 +16,7 @@ Once I've invited you (you may or may not get a notification, based on your GitH
 3. Edit that page by clicking the pencil icon (which will take you to [this page](https://github.com/linguistics/tls/edit/gh-pages/2014tls/index.html))
 4. Write a short description of the change in the first "Commit changes" text box, e.g., "Fixed typo in Emilie's pres title". It doesn't have to be much, but don't just say "Updated index.html".
 
-The changes will be immediately (or within a couple of minutes) viewable on [the site](http://linguistics.github.io/tls/2014tls/).
+The changes will be immediately (or within a couple of minutes) viewable on [the site](http://tls.ling.utexas.edu/2014tls/).
 
 
 ### Making changes carefully, first
@@ -24,7 +24,7 @@ The changes will be immediately (or within a couple of minutes) viewable on [the
 It's not awfully easy to preview your changes before they go live, unfortunately, using GitHub's online editor. If you're making small changes, you can probably envision what effect edits to the HTML will have on the webpage, but if you really want to preview your changes before committing them, you can:
 
 1. Fork the `tls` repository to your own user account (by going to the repository's [main page](https://github.com/linguistics/tls) and clicking the "Fork" button)
-2. Make the changes to that copy (fork) of the code, and commit. This won't change the upstream (main) [website](http://linguistics.github.io/tls/).
+2. Make the changes to that copy (fork) of the code, and commit. This won't change the upstream (main) [website](http://tls.ling.utexas.edu/).
 3. Assuming your username is `chbrown`, you can view the changes at something like [http://chbrown.github.io/tls/2014tls/](http://chbrown.github.io/tls/2014tls/)
 
 If needed, go back, make some more edits, commit again, and look at the result.
