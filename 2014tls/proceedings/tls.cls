@@ -21,6 +21,7 @@
 
 % urls
 \RequirePackage{url}
+\RequirePackage{hyperref}
 
 \pagestyle{empty} % No page numbers
 % No, really (\maketitle overrides the empty style)
