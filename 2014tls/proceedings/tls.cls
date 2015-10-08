@@ -29,8 +29,8 @@
 \ps@empty
 
 % floats
-\setlength{\intextsep}{6pt plus 2pt minus 2pt}
-\setlength{\textfloatsep}{6pt plus 2pt minus 2pt}
+\setlength{\intextsep}{16pt plus 2pt minus 6pt}
+\setlength{\textfloatsep}{8pt plus 2pt minus 2pt}
 
 % maketitle, mostly from article.cls (2007/10/19 v1.4h)
 \makeatletter
