@@ -10,7 +10,7 @@ Texas at Austin. This year's TLS is co-located with the North American Summer
 School of Logic, Language, and Information and associated workshops and 
 symposia.
 
-http://uts.cc.utexas.edu/~tls/
+http://tls.ling.utexas.edu/
 
 TLS 13 will be structured around two para-sessions: (1) formal semantics & 
 pragmatics and (2) signed languages and meaning. While we strongly encourage 
