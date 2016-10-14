@@ -56,8 +56,3 @@ If you get tired of typing in your password all the time, there are ways to make
 
 * [StackOverflow: Is there a way to skip password typing ...](http://stackoverflow.com/q/5343068/424651)
 * [SSH Keys](https://help.github.com/articles/generating-ssh-keys/)
-
-
-### Syncing changes to the legacy server
-
-There are a couple extra steps to sync the changes over to [UT's server](http://uts.cc.utexas.edu/~tls/); see [2014tls/README.md](https://github.com/linguistics/tls/blob/gh-pages/2014tls/README.md).

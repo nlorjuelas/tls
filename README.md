@@ -1,6 +1,9 @@
 Please visit this site at [tls.ling.utexas.edu](http://tls.ling.utexas.edu/).
 
-The TLS sites are also hosted on UT Austin servers, at [uts.cc.utexas.edu/~tls](http://uts.cc.utexas.edu/~tls).
+The site was originally hosted on a UT server at `http://uts.cc.utexas.edu/~tls`,
+but that server was retired (without announcement) in Summer 2016,
+so `tls.ling.utexas.edu` is now both the canonical and only URL.
+
 
 ### Legacy directories
 
